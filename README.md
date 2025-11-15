@@ -19,7 +19,7 @@
 <p>M = 2 + 2</p>
 <p>M = 4</p>
 
-<h3>COMPLEXIDADE CICLOMÁTICA</h3>
+<br><h3>RESUMO DOS CAMINHOS BÁSICOS</h3>
 <p>• Caminho 1 (Caminho Verdadeiro):</p>
 <p>Nó 1 → Nó 2 → Nó 3 → Nó 4 → Nó 5 → Nó 6 → Nó 7 → Nó 8 → Nó 9 → Nó 11</p><br>
 
