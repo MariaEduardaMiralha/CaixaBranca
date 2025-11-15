@@ -1,17 +1,17 @@
 <body>
 <h1>Exercícios sobre caixa branca</h1><br>
 
-<h3>Tabela do Excel - Plano de testes</h3><br>
-<img src="/Tabela_Excel.png">
+<h3>Tabela do Excel - Plano de testes</h3>
+<img src="/Tabela_Excel.png"><br>
 
-<h3>Fluxograma</h3><br>         
-<img src="/Fluxograma_15_11.png" alt="Imagem 2">
+<h3>Fluxograma</h3>         
+<img src="/Fluxograma_15_11.png" alt="Imagem 2"><br>
 
-<h3>Grafo de fluxo</h3><br>
-<img src="/Grafo_15_11.png" alt="Imagem 3">
+<h3>Grafo de fluxo</h3>
+<img src="/Grafo_15_11.png" alt="Imagem 3"><br>
 
-<h3>Caminho dos nós</h3><br>
-<img src="/Caminho_Dos_Nos.png" alt="Imagem 4">
+<h3>Caminho dos nós</h3>
+<img src="/Caminho_Dos_Nos.png" alt="Imagem 4"><br>
   
 <h3>COMPLEXIDADE CICLOMÁTICA</h3>
 <p>M = E − N + 2</p>
